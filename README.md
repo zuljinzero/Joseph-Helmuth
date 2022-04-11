@@ -1,5 +1,5 @@
 # Joseph-Helmuth
-Coding Projects
+Coding Projects:
 
 -Python Sqlite Application and Database 
 
