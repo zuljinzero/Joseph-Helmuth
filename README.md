@@ -1,2 +1,2 @@
-# Joseph-Helmuth-Repository
+# Joseph-Helmuth
 Coding Projects
