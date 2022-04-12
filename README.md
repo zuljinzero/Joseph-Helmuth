@@ -1,4 +1,4 @@
-# Joseph-Helmuth
+# Joseph Helmuth
 Coding Projects:
 
 -Python Sqlite Application and Database 
