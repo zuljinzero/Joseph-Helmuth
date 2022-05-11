@@ -8,8 +8,3 @@ Coding Projects:
         -data_queries.py python file with Sqlite queries called from login_app.py.
         -data.db database file that houses data utilized by data_queries.py.
         -customer_data.xlsx excel file used to test add_file() function in data_queries.py.
-
--Cplusplus OpenGL School Project
-
-    -Folder includes:
-        -OpenGL Project.cpp C++ file using OpenGL library to create 3D scene.
