@@ -184,4 +184,3 @@ def delete_record(actNum):
 
 	cnct.commit()
 	cnct.close()
-
