@@ -12,5 +12,5 @@ Coding Projects:
 -Cellular Automata
 
     -Folder includes:
-        -1 Dimensional Cellular Automata.cpp creates triangular fractals.
-        -Life_Simulation.html 2D cellular automata that use group behavior
+        -1_Dimensional_Cellular_Automata.cpp C++ file that creates triangular fractals.
+        -Life_Simulation.html HTML/JS file that creates 2D cellular automata using group behavior.
