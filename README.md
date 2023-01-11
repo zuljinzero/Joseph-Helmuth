@@ -7,7 +7,7 @@ Coding Projects:
     -Folder includes:
         -main.py python file stores the questions pulled from the API in an array and then runs the app.
         -data.py puthon file calls the API with a get() request to collect the quiz question data.
-        -question_model.py python file creates the Question class to temporarily store question data before being appended.
+        -question_model.py python file creates the Question class to temporarily store question data.
         -quiz_brain.py python file handles checking question answers and providing questions.
         -ui.py python file creates canvas, text, and buttons.
         -image folder conatains the true and false button png images.
