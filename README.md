@@ -3,6 +3,7 @@ Coding Projects:
 
 
 -Quizzler Application - made with Python
+
     -Folder includes:
         -main.py python file stores the questions pulled from the API in an array and then runs the app.
         -data.py puthon file calls the API with a get() request to collect the quiz question data.
@@ -13,6 +14,7 @@ Coding Projects:
 
 
 -Python Sqlite Application and Database 
+
     -Folder includes:
         -login_app.py python file with login and database menus.
         -data_queries.py python file with Sqlite queries called from login_app.py.
@@ -21,6 +23,7 @@ Coding Projects:
 
 
 -Cellular Automata
+
     -Folder includes:
         -1_Dimensional_Cellular_Automata.cpp C++ file that creates triangular fractals.
         -Life_Simulation.html HTML/JS file that creates 2D cellular automata using group behavior.
