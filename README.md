@@ -1,6 +1,15 @@
 # Joseph Helmuth
 Coding Projects:
 
+-Quizzler Application - made with Python
+
+    -Folder includes:
+        -main.py python file 
+        -data.py puthon file 
+        -question_model.py python file 
+        -quiz_brain.py python file 
+        -ui.py python file 
+
 -Python Sqlite Application and Database 
 
     -Folder includes:
