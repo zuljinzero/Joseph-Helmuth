@@ -1,4 +1,11 @@
 # Joseph Helmuth
+
+
+About Me:
+
+-I'm a software engineer looking for an opportunity to join an engineering team. I'm adaptable, proactive, and comfortable with new challenges and goals. I enjoy learning new coding languages and systems. I'm quick to take initiative in new projects and their planning. I'm responsible and efficient with deadlines. I endeavor to behave as a leader and others know that they can come to me for help with code, formulas, questions, and other issues. 
+
+
 Coding Projects:
 
 
@@ -14,6 +21,10 @@ Coding Projects:
 
 
 -Password Manager - MyPass
+
+    -Folder includes:
+        -main.py python file that saves passwords into a json file and the user can retrieve passwords easily.
+            -uses tkinter to display user interface
 
 
 -Python Sqlite Application and Database 
