@@ -41,3 +41,10 @@ Coding Projects:
     -Folder includes:
         -1_Dimensional_Cellular_Automata.cpp C++ file that creates triangular fractals.
         -Life_Simulation.html HTML/JS file that creates 2D cellular automata using group behavior.
+
+
+-Ultima Like Game
+
+    -Ultima Like Game is a "from scratch" (using .NET and RayLib (graphics display framework)) work in progess prototype game engine for a turn-based RPG game in the style of Ultima 1 & 2 (computer games from the 1980s). It runs well, but the graphics are just single color squares as place holder "art"
+    -Folder includes:
+        
