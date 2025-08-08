@@ -54,5 +54,4 @@ Coding Projects:
         -Enemies.cs: Constructor classes that set the perameters for enemies.
         -Equipment.cs: Constructor classes that set the perameters for equipment.
         -Player.cs: Constructor classes that set the perameters for the player.
-        -Program.cs: The majority of the code for the game. Includes a solid state machine to control turn progression 
-            -and game state, and much more.
+        -Program.cs: The majority of the code for the game. Includes a solid state machine to control turn progression and game state.
