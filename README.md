@@ -45,6 +45,14 @@ Coding Projects:
 
 -Ultima Like Game
 
-    -Ultima Like Game is a "from scratch" (using .NET and RayLib (graphics display framework)) work in progess prototype game engine for a turn-based RPG game in the style of Ultima 1 & 2 (computer games from the 1980s). It runs well, but the graphics are just single color squares as place holder "art"
+    -Ultima Like Game is a "from scratch" (using .NET and RayLib (graphics display framework)) work in progess prototype
+    -game engine for a turn-based RPG game in the style of Ultima 1 & 2 (computer games from the 1980s). It runs well, but
+    -the graphics are just single color squares as place holder "art".
+    
     -Folder includes:
-        
+        -bin & obj folders: .Net & RayLib required files.
+        -Enemies.cs: Constructor classes that set the perameters for enemies.
+        -Equipment.cs: Constructor classes that set the perameters for equipment.
+        -Player.cs: Constructor classes that set the perameters for the player.
+        -Program.cs: The majority of the code for the game. Includes a solid state machine to control turn progression 
+            -and game state, and much more.
