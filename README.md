@@ -55,3 +55,14 @@ Coding Projects:
         -Equipment.cs: Constructor classes that set the perameters for equipment.
         -Player.cs: Constructor classes that set the perameters for the player.
         -Program.cs: The majority of the code for the game. Includes a solid state machine to control turn progression and game state.
+
+
+-Map Editor
+
+    -Map Editor is just how it sounds, it is a painting app to create maps for Ultima Like Game. I used multiple "brushes"
+    -to paint the map, and allows it to be saved as a .txt file to be loaded into Ultima Like Game for use.
+
+    -Folder includes:
+        -bin & obj folders: .Net & RayLib required files.
+        -Program.cs: All of the editor code is in this one file.
+
